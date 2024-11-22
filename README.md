@@ -1,6 +1,6 @@
-# Loungy
+# Echoes
 
-Loungy is a communication app.
+Echoes is a realtime communication platform that allows users to create and join chat rooms to communicate with other users in real time.
 
 ## Contributing
 
